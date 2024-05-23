@@ -1,5 +1,6 @@
 
 <!-- Header Section -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center"><font face="Arial">Hi 👋, I'm Muhammad Usman Qadir a.k.a Cloud Alchemist</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/usman-qadir-072792180/" target="_blank" rel="noreferrer">Usman Qadir</a> is a passionate DevOps Engineer from Pakistan, working on Cloud and DevOps for a year now. Feel free to reach out for any Freelance Projects.</font></h3>
 <br><br>
