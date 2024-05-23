@@ -2,10 +2,10 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Muhammad Usman Qadir a.k.a Cloud Alchemist</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/usman-qadir-072792180/" target="_blank" rel="noreferrer">Usman Qadir</a> is a passionate DevOps Engineer from Pakistan, working on Cloud and DevOps for a year now. Feel free to reach out for any Freelance Projects.</font></h3>
-
+<br><br>
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 
 
@@ -13,9 +13,11 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
+- I work on DevOps, Microservices, containers,
+  and everything around it.
 - I’m looking to collaborate on **Cloud-native Projects**
-
+<br><br>
+<br><br>
 
 
 #### Programming Language Stack
