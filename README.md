@@ -32,7 +32,7 @@
 
 
 #### DevOps Stack 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,jenkins,docker,kubernetes,nginx,prometheus,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,jenkins,docker,kubernetes,nginx,grafana)](https://skillicons.dev)
 
 
 #### Project Management Stack
